@@ -84,10 +84,11 @@ author:
   avatar           : "Hovhannisyan_ProfilePic.jpg"
   bio              : "I'm a PhD student in Clinical Psychology at the University of Arizona."
   location         : "Tucson, AZ"
+  osf              : "https://osf.io/r7gux/"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=RZUP37AAAAAJ"
-  email            :
+  email            : "mhovhannisyan@arizona.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
