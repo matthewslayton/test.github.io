@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Mariam Hovhannisyan"
   avatar           : "Hovhannisyan_ProfilePic.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "I'm a PhD student in Clinical Psychology at the University of Arizona."
+  location         : "Tucson, AZ"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=RZUP37AAAAAJ"
