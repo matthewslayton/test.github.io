@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mariam Hovhannisyan"
+title                    : "Matthew Slayton"
 title_separator          : "-"
-name                     : &name "Mariam Hovhannisyan"
-description              : &description "Clinical Psychology PhD Student"
-url                      : "https://mariamh16.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Matthew Slayton"
+description              : &description "Cognitive Neuroscience PhD Student"
+url                      : "https://matthewslayton.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mariam Hovhannisyan"
-  avatar           : "Hovhannisyan_ProfilePic.jpg"
-  bio              : "I'm a PhD student in Clinical Psychology at the University of Arizona."
-  location         : "Tucson, AZ"
+  name             : "Matthew Slayton"
+  avatar           : "prof_pic.jpg"
+  bio              : "Cognitive Neuroscience PhD Candidate at Duke University."
+  location         : "Durham, NC"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=RZUP37AAAAAJ"
-  email            : "mhovhannisyan@arizona.edu"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=jlMhcJUAAAAJ"
+  email            : "matthew.slayton@duke.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mariamh16"
+  github           : "matthewslayton"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,13 +109,13 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "thebehavingmind"
+  twitter          : "mmmslayton"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-  osf              : "r7gux/"
+  osf              : #"r7gux/"
 
 
 # Reading Files

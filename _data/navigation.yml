@@ -1,11 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "about"
+    url: /about/
+
+  - title: "publications"
     url: /publications/
     
-  - title: "CV"
+  - title: "cv"
     url: /cv/
 
-  - title: "Object Database"
-    url: /objectdatabase/
+  - title: "repositories"
+    url: /repositories/
     
+  - title: "music"
+    url: /music/

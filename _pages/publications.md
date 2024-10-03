@@ -1,9 +1,14 @@
 ---
-layout: archive
-title: "Publications"
+layout: page
 permalink: /publications/
-author_profile: true
+title: publications
+description: recent publications. more coming soon
+nav: true
+nav_order: 1
 ---
+<!-- _pages/publications.md -->
+<div class="publications">
 
-You can find my publications on my [Google Scholar profile](https://scholar.google.com/citations?user=RZUP37AAAAAJ&hl=en&oi=ao). 
+{% bibliography -f {{ site.scholar.bibliography }} %}
 
+</div>
